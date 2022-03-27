@@ -1,3 +1,3 @@
 # Header
 
-This is a Sudoku solver implemente in python.
+This is a Sudoku solver implemented in python.
